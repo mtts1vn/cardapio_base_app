@@ -1,16 +1,3 @@
-# cardapio
+#Restaurant Menu App Base
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository contains the foundational codebase for a restaurant menu app, developed using Flutter and Dart. The core feature of this app base is the local shopping cart system, which allows users to add and manage items in their cart during their browsing session. The cart functionality is designed to be non-persistent, meaning that the cart's contents are not stored in memory between app sessions.
